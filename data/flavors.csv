@@ -1,0 +1,65 @@
+flavor_id,flavor_name,dairy_free,quantity
+1,Vanilla,false,1
+2,Vanilla,true,1
+3,Chocolate,false,1
+4,Chocolate,true,1
+5,Strawberry,false,1
+6,Strawberry,true,1
+7,Mint Chocolate Chip,false,1
+8,Mint Chocolate Chip,true,1
+9,Cookies and Cream,false,1
+10,Cookies and Cream,true,1
+11,Rocky Road,false,1
+12,Rocky Road,true,1
+13,Coffee,false,1
+14,Coffee,true,1
+15,Butter Pecan,false,1
+16,Butter Pecan,true,1
+17,Cookie Dough,false,1
+18,Cookie Dough,true,1
+19,Pistachio,false,1
+20,Pistachio,true,1
+21,Neapolitan,false,1
+22,Neapolitan,true,1
+23,Chocolate Chip,false,1
+24,Chocolate Chip,true,1
+25,Cherry Garcia,false,1
+26,Cherry Garcia,true,1
+27,Peanut Butter Cup,false,1
+28,Peanut Butter Cup,true,1
+29,Salted Caramel,false,1
+30,Salted Caramel,true,1
+31,Birthday Cake,false,1
+32,Birthday Cake,true,1
+33,Raspberry Ripple,false,1
+34,Raspberry Ripple,true,1
+35,Coconut,false,1
+36,Coconut,true,1
+37,Mango,false,1
+38,Mango,true,1
+39,Lemon Sorbet,false,1
+40,Lemon Sorbet,true,1
+41,Blueberry Cheesecake,false,1
+42,Blueberry Cheesecake,true,1
+43,Green Tea,false,1
+44,Green Tea,true,1
+45,Maple Walnut,false,1
+46,Maple Walnut,true,1
+47,Black Cherry,false,1
+48,Black Cherry,true,1
+49,Caramel Swirl,false,1
+50,Caramel Swirl,true,1
+51,Tiramisu,false,1
+52,Tiramisu,true,1
+53,Red Velvet,false,1
+54,Red Velvet,true,1
+55,Banana Split,false,1
+56,Banana Split,true,1
+57,Bubble Gum,false,1
+58,Bubble Gum,true,1
+59,Cotton Candy,false,1
+60,Cotton Candy,true,1
+61,Almond Fudge,false,1
+62,Almond Fudge,true,1
+63,Hazelnut Crunch,false,1
+64,Hazelnut Crunch,true,1
