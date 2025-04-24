@@ -21,7 +21,7 @@ CREATE TABLE sales(
 
 CREATE TABLE employees(
     id SERIAL PRIMARY KEY,
-    employee_name VARCHAR(20),
+    employee_name VARCHAR(100),
     start_time TIMESTAMP,
     end_time TIMESTAMP
 );
